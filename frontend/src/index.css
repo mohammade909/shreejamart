@@ -1,0 +1,12 @@
+@import "~@flaticon/flaticon-uicons/css/all/all";
+body {
+  margin: 0;
+  font-family: "Poppins", serif;
+}
+
+.bg-primary {
+  background: #4b5966;
+}
+.bg-secondary {
+  background: #5caf90 ;
+}
