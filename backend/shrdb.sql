@@ -36,7 +36,7 @@ CREATE TABLE `blogs` (
   `category` varchar(100) DEFAULT NULL,
   `video` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`blog_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -45,7 +45,7 @@ CREATE TABLE `blogs` (
 
 LOCK TABLES `blogs` WRITE;
 /*!40000 ALTER TABLE `blogs` DISABLE KEYS */;
-INSERT INTO `blogs` VALUES (10,'5 Reasons Why Every Business Needs an eCommerce Website','<p>In the fast-paced digital world, businesses can’t afford to ignore the benefits of having an online presence. Here’s why an eCommerce website is a game-changer:</p><ol><li><strong>24/7 Accessibility</strong>: Unlike a physical store, an online store is always open. This means customers can shop anytime, anywhere, resulting in more sales.</li><li><strong>Reach a Global Audience</strong>: Break geographical barriers by showcasing your products to customers around the world.</li><li><strong>Lower Operational Costs</strong>: Operating online means fewer expenses compared to a traditional brick-and-mortar store, saving you money in the long run.</li><li><strong>Enhanced Customer Convenience</strong>: With just a few clicks, customers can explore your products, read reviews, and make purchases—all from the comfort of their homes.</li><li><strong>Valuable Customer Insights</strong>: Analytics tools give you insights into customer behavior, helping you optimize your marketing strategies and offerings.</li></ol><p>Building an eCommerce website is no longer optional—it’s essential for staying competitive and growing your business. Start your journey today!</p>','Thinking about taking your business online? Discover the top 5 reasons why an eCommerce website is essential for growth in today’s digital age.',1,'2025-01-28 04:28:49','2025-01-28 05:03:42','published','Market','/blogs/1738038529904-8.jpg','Organic','null'),(11,'7 Proven Ways to Boost Sales on Your eCommerce Store','<p>Running an eCommerce store comes with its challenges, but with these strategies, you can drive sales and retain customers:</p><ol><li><strong>Optimize Product Pages</strong>: Use high-quality images, compelling descriptions, and customer reviews to build trust and improve conversions.</li><li><strong>Leverage Discounts and Offers</strong>: Promotions like free shipping or seasonal discounts encourage customers to make purchases.</li><li><strong>Engage on Social Media</strong>: Use platforms like Instagram and Facebook to showcase your products and interact with potential customers.</li><li><strong>Simplify the Checkout Process</strong>: A quick and easy checkout reduces cart abandonment. Avoid unnecessary steps and offer multiple payment options.</li><li><strong>Add Personalization</strong>: Use AI-driven recommendations to suggest products based on browsing and purchase history.</li><li><strong>Launch Email Campaigns</strong>: Send newsletters with product updates, discount codes, and personalized recommendations directly to customers’ inboxes.</li><li><strong>Optimize for Mobile</strong>: Ensure your website is mobile-friendly, as most customers shop on their smartphones.</li></ol><p>Implement these tactics to create a better shopping experience for your customers and watch your sales grow.</p>','Looking to drive more revenue from your online store? Follow these seven tips to boost sales and create a seamless shopping experience.',1,'2025-01-28 04:32:15','2025-01-28 06:21:30','published','Apple, Banana','/blogs/1738038735550-4.jpg','Fruits','null'),(12,' Top 10 Trending Products to Sell Online in 2025','<p>Staying ahead of product trends is essential for running a successful online store. Here are the hottest items that customers are searching for in 2025:</p><ol><li><strong>Smart Home Devices</strong>: From voice-controlled lights to smart thermostats, these products are dominating the market.</li><li><strong>Eco-Friendly Items</strong>: Sustainable products like reusable water bottles and biodegradable packaging are a favorite among eco-conscious shoppers.</li><li><strong>Fitness Equipment</strong>: Home gyms are still popular, making resistance bands, weights, and yoga mats a must-have.</li><li><strong>Pet Accessories</strong>: Pet lovers are always looking for new toys, premium pet food, and comfy pet beds.</li><li><strong>Beauty Tools</strong>: Innovative tools like facial rollers and LED skincare masks are trending in the beauty industry.</li><li><strong>Wireless Earbuds</strong>: Portable, stylish, and practical, wireless earbuds remain a tech staple.</li><li><strong>DIY Craft Kits</strong>: As more people embrace creative hobbies, craft kits for knitting, painting, and woodworking are in demand.</li><li><strong>Personalized Gifts</strong>: Custom mugs, photo books, and engraved jewelry are perfect for special occasions.</li><li><strong>Gaming Accessories</strong>: Products like ergonomic gaming chairs and RGB keyboards are essential for avid gamers.</li><li><strong>Health Supplements</strong>: Wellness is key, with customers looking for vitamins, herbal teas, and protein powders.</li></ol><p>Stocking these trending products ensures you attract the right audience and boost your eCommerce store’s revenue this year.</p>','Want to know what products are in demand this year? Check out this list of the top 10 trending products to sell online in 2025.',1,'2025-01-28 04:36:23','2025-01-28 06:21:30','published','Bussiness','/blogs/1738038983649-3.jpg','Groceries','null'),(13,' The Future of Online Shopping: Trends to Watch in 2025','<p>The eCommerce landscape is constantly changing, driven by new technology and shifting customer preferences. Here are the most exciting trends to look out for in 2025:</p><h4><strong>1. AI-Powered Personalization</strong></h4><p>Artificial intelligence is transforming online shopping. Personalized product recommendations, AI-driven chatbots, and tailored email campaigns are becoming the norm.</p><h4><strong>2. Voice Commerce</strong></h4><p>Smart speakers like Amazon Alexa and Google Assistant are revolutionizing shopping. Voice search and voice-enabled purchases are on the rise, offering customers ultimate convenience.</p><h4><strong>3. Green Shopping</strong></h4><p>Sustainability matters. Customers are demanding eco-friendly packaging, carbon-neutral shipping, and ethical business practices. Going green isn’t just trendy—it’s essential.</p><h4><strong>4. AR and VR Integration</strong></h4><p>Augmented and virtual reality are helping customers \"try before they buy.\" From virtual fitting rooms to 3D product previews, AR and VR are boosting buyer confidence.</p><h4><strong>5. Mobile-First Experiences</strong></h4><p>Mobile shopping continues to dominate. Responsive, fast-loading mobile websites and apps ensure customers can shop seamlessly on the go.</p><h4><strong>6. Subscription Models</strong></h4><p>Subscription boxes for beauty, fitness, and even groceries are gaining popularity. Recurring revenue is a win-win for businesses and customers alike.</p><h4><strong>7. Social Commerce</strong></h4><p>Platforms like Instagram, TikTok, and Pinterest are turning into shopping hubs. Businesses can now sell directly through these channels, bridging the gap between social media and eCommerce.</p><p>By embracing these trends, your business can stay ahead of the competition and meet evolving customer expectations. The future of online shopping is bright—get ready to shine!</p>','The eCommerce industry is evolving rapidly! Discover the top trends shaping online shopping in 2025 and how your business can stay ahead of the curve.',1,'2025-01-28 05:20:44','2025-01-28 05:20:44','published','Trick','/blogs/1738041644695-6.jpg','-Tips','null');
+INSERT INTO `blogs` VALUES (10,'5 Reasons Why Every Business Needs an eCommerce Website','<p>In the fast-paced digital world, businesses can’t afford to ignore the benefits of having an online presence. Here’s why an eCommerce website is a game-changer:</p><ol><li><strong>24/7 Accessibility</strong>: Unlike a physical store, an online store is always open. This means customers can shop anytime, anywhere, resulting in more sales.</li><li><strong>Reach a Global Audience</strong>: Break geographical barriers by showcasing your products to customers around the world.</li><li><strong>Lower Operational Costs</strong>: Operating online means fewer expenses compared to a traditional brick-and-mortar store, saving you money in the long run.</li><li><strong>Enhanced Customer Convenience</strong>: With just a few clicks, customers can explore your products, read reviews, and make purchases—all from the comfort of their homes.</li><li><strong>Valuable Customer Insights</strong>: Analytics tools give you insights into customer behavior, helping you optimize your marketing strategies and offerings.</li></ol><p>Building an eCommerce website is no longer optional—it’s essential for staying competitive and growing your business. Start your journey today!</p>','Thinking about taking your business online? Discover the top 5 reasons why an eCommerce website is essential for growth in today’s digital age.',1,'2025-01-28 04:28:49','2025-01-28 05:03:42','published','Market','/blogs/1738038529904-8.jpg','Organic','null'),(11,'7 Proven Ways to Boost Sales on Your eCommerce Store','<p>Running an eCommerce store comes with its challenges, but with these strategies, you can drive sales and retain customers:</p><ol><li><strong>Optimize Product Pages</strong>: Use high-quality images, compelling descriptions, and customer reviews to build trust and improve conversions.</li><li><strong>Leverage Discounts and Offers</strong>: Promotions like free shipping or seasonal discounts encourage customers to make purchases.</li><li><strong>Engage on application Media</strong>: Use platforms like Instagram and Facebook to showcase your products and interact with potential customers.</li><li><strong>Simplify the Checkout Process</strong>: A quick and easy checkout reduces cart abandonment. Avoid unnecessary steps and offer multiple payment options.</li><li><strong>Add Personalization</strong>: Use AI-driven recommendations to suggest products based on browsing and purchase history.</li><li><strong>Launch Email Campaigns</strong>: Send newsletters with product updates, discount codes, and personalized recommendations directly to customers’ inboxes.</li><li><strong>Optimize for Mobile</strong>: Ensure your website is mobile-friendly, as most customers shop on their smartphones.</li></ol><p>Implement these tactics to create a better shopping experience for your customers and watch your sales grow.</p>','Looking to drive more revenue from your online store? Follow these seven tips to boost sales and create a seamless shopping experience.',1,'2025-01-28 04:32:15','2025-01-28 06:21:30','published','Apple, Banana','/blogs/1738038735550-4.jpg','Fruits','null'),(12,' Top 10 Trending Products to Sell Online in 2025','<p>Staying ahead of product trends is essential for running a successful online store. Here are the hottest items that customers are searching for in 2025:</p><ol><li><strong>Smart Home Devices</strong>: From voice-controlled lights to smart thermostats, these products are dominating the market.</li><li><strong>Eco-Friendly Items</strong>: Sustainable products like reusable water bottles and biodegradable packaging are a favorite among eco-conscious shoppers.</li><li><strong>Fitness Equipment</strong>: Home gyms are still popular, making resistance bands, weights, and yoga mats a must-have.</li><li><strong>Pet Accessories</strong>: Pet lovers are always looking for new toys, premium pet food, and comfy pet beds.</li><li><strong>Beauty Tools</strong>: Innovative tools like facial rollers and LED skincare masks are trending in the beauty industry.</li><li><strong>Wireless Earbuds</strong>: Portable, stylish, and practical, wireless earbuds remain a tech staple.</li><li><strong>DIY Craft Kits</strong>: As more people embrace creative hobbies, craft kits for knitting, painting, and woodworking are in demand.</li><li><strong>Personalized Gifts</strong>: Custom mugs, photo books, and engraved jewelry are perfect for special occasions.</li><li><strong>Gaming Accessories</strong>: Products like ergonomic gaming chairs and RGB keyboards are essential for avid gamers.</li><li><strong>Health Supplements</strong>: Wellness is key, with customers looking for vitamins, herbal teas, and protein powders.</li></ol><p>Stocking these trending products ensures you attract the right audience and boost your eCommerce store’s revenue this year.</p>','Want to know what products are in demand this year? Check out this list of the top 10 trending products to sell online in 2025.',1,'2025-01-28 04:36:23','2025-01-28 06:21:30','published','Bussiness','/blogs/1738038983649-3.jpg','Groceries','null'),(13,' The Future of Online Shopping: Trends to Watch in 2025','<p>The eCommerce landscape is constantly changing, driven by new technology and shifting customer preferences. Here are the most exciting trends to look out for in 2025:</p><h4><strong>1. AI-Powered Personalization</strong></h4><p>Artificial intelligence is transforming online shopping. Personalized product recommendations, AI-driven chatbots, and tailored email campaigns are becoming the norm.</p><h4><strong>2. Voice Commerce</strong></h4><p>Smart speakers like Amazon Alexa and Google Assistant are revolutionizing shopping. Voice search and voice-enabled purchases are on the rise, offering customers ultimate convenience.</p><h4><strong>3. Green Shopping</strong></h4><p>Sustainability matters. Customers are demanding eco-friendly packaging, carbon-neutral shipping, and ethical business practices. Going green isn’t just trendy—it’s essential.</p><h4><strong>4. AR and VR Integration</strong></h4><p>Augmented and virtual reality are helping customers \"try before they buy.\" From virtual fitting rooms to 3D product previews, AR and VR are boosting buyer confidence.</p><h4><strong>5. Mobile-First Experiences</strong></h4><p>Mobile shopping continues to dominate. Responsive, fast-loading mobile websites and apps ensure customers can shop seamlessly on the go.</p><h4><strong>6. Subscription Models</strong></h4><p>Subscription boxes for beauty, fitness, and even groceries are gaining popularity. Recurring revenue is a win-win for businesses and customers alike.</p><h4><strong>7. application Commerce</strong></h4><p>Platforms like Instagram, TikTok, and Pinterest are turning into shopping hubs. Businesses can now sell directly through these channels, bridging the gap between application media and eCommerce.</p><p>By embracing these trends, your business can stay ahead of the competition and meet evolving customer expectations. The future of online shopping is bright—get ready to shine!</p>','The eCommerce industry is evolving rapidly! Discover the top trends shaping online shopping in 2025 and how your business can stay ahead of the curve.',1,'2025-01-28 05:20:44','2025-01-28 05:20:44','published','Trick','/blogs/1738041644695-6.jpg','-Tips','null');
 /*!40000 ALTER TABLE `blogs` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -68,7 +68,7 @@ CREATE TABLE `cart_items` (
   PRIMARY KEY (`cart_item_id`),
   KEY `cart_id` (`cart_id`),
   CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `carts` (`cart_id`) ON DELETE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=35 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=35 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -94,7 +94,7 @@ CREATE TABLE `carts` (
   `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`cart_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -122,7 +122,7 @@ CREATE TABLE `categories` (
   `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`category_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -158,7 +158,7 @@ CREATE TABLE `comments` (
   KEY `idx_user` (`user_id`),
   CONSTRAINT `comments_ibfk_1` FOREIGN KEY (`parent_comment_id`) REFERENCES `comments` (`id`) ON DELETE CASCADE,
   CONSTRAINT `comments_chk_1` CHECK (((`rating` >= 1) and (`rating` <= 5)))
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -188,7 +188,7 @@ CREATE TABLE `documents` (
   PRIMARY KEY (`document_id`),
   KEY `jmjm_idx` (`user_id`),
   CONSTRAINT `jmjm` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -219,7 +219,7 @@ CREATE TABLE `notification_recipients` (
   KEY `user_id` (`user_id`),
   CONSTRAINT `notification_recipients_ibfk_1` FOREIGN KEY (`notification_id`) REFERENCES `notifications` (`notification_id`) ON DELETE CASCADE,
   CONSTRAINT `notification_recipients_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -250,7 +250,7 @@ CREATE TABLE `notifications` (
   PRIMARY KEY (`notification_id`),
   KEY `created_by` (`created_by`),
   CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `users` (`user_id`) ON DELETE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -286,7 +286,7 @@ CREATE TABLE `order_items` (
   PRIMARY KEY (`item_id`),
   KEY `order_items_ibfk_1` (`order_id`),
   CONSTRAINT `order_items_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`) ON DELETE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -330,7 +330,7 @@ CREATE TABLE `orders` (
   `updated_at` datetime DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`order_id`),
   UNIQUE KEY `order_number` (`order_number`)
-) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -367,7 +367,7 @@ CREATE TABLE `partners` (
   PRIMARY KEY (`partner_id`),
   KEY `bjkjk_idx` (`user_id`),
   CONSTRAINT `bjkjk` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -408,7 +408,7 @@ CREATE TABLE `products` (
   `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`product_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -449,7 +449,7 @@ CREATE TABLE `reviews_and_ratings` (
   KEY `idx_user_id` (`user_id`),
   CONSTRAINT `reviews_and_ratings_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`),
   CONSTRAINT `reviews_and_ratings_chk_1` CHECK ((`rating` between 0.0 and 5.0))
-) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -485,7 +485,7 @@ CREATE TABLE `transactions` (
   PRIMARY KEY (`transaction_id`),
   KEY `user_id` (`user_id`),
   CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -517,7 +517,7 @@ CREATE TABLE `user_locations` (
   `created_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`address_id`),
   UNIQUE KEY `address_id` (`address_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -554,7 +554,7 @@ CREATE TABLE `users` (
   UNIQUE KEY `user_id` (`user_id`),
   UNIQUE KEY `username` (`username`),
   UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB AUTO_INCREMENT=47 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=47 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -597,7 +597,7 @@ CREATE TABLE `vendors` (
   `updated_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`vendor_id`),
   UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

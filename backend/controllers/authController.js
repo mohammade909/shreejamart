@@ -54,9 +54,8 @@ const generateUniqueUsername = async (firstName, lastName) => {
 exports.signup = catchAsyncErrors(async (request, response, next) => {
   const userFields = request.body;
  
-  console.log(userFields);
   
-  if (!userFields.phone_number || !userFields.password) {
+  if (!userFields.phone_number) {
     return response.status(400).json({
       message: "First name, last name, email, and password are required",
     });
